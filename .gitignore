@@ -132,3 +132,10 @@ dmypy.json
 # Editor folders
 .idea/
 .code/
+
+
+# Media files
+django_project/media/profile_pics/*
+django_project/media/*.jpg
+
+django_project/posts.json
